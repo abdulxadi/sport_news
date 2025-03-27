@@ -1,0 +1,30 @@
+{
+<<<<<<< HEAD
+  "name": "ls1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+=======
+  "name": "sport_news",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+>>>>>>> 8f84cca (first commit)
+    "dev": "node --watch app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "config": "^3.3.12",
+    "express": "^4.21.2",
+<<<<<<< HEAD
+    "pg": "^8.14.1",
+    "winston": "^3.17.0"
+=======
+    "pg": "^8.14.1"
+>>>>>>> 8f84cca (first commit)
+  }
+}
